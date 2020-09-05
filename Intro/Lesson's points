@@ -1,0 +1,28 @@
+9/5/2020 7:17 PM
+It's first day that I try
+
+Today's some points from lessons
+
+- literal
+- function
+- argument
+- calling a function
+- return value
+- parameter
+
+# in Python there is no difference single quotes and double quotes
+
+
+functions which I used
+- print
+- input
+
+Escape char
+- \n
+- \t
+- triple quotes
+
+If you want \ in the strings
+# you have to use \\
+or
+# use r in front of string
